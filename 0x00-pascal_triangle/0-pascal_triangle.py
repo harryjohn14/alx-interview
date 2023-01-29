@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """
+This script describes a 
 Pascal Trangle
 """
 
