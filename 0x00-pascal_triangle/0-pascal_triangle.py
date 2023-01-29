@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 """
-This script describes a 
 Pascal Trangle
 """
 
@@ -23,4 +22,4 @@ def pascal_triangle(n):
                     row.append(res[-1][j] + res[-1][j - 1])
                 row.append(1)
                 res.append(row)
-        return res
+        return 
